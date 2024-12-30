@@ -1,2 +1,2 @@
 # Automatic-BFDIYTPMV-Generator
-Generates BFDI YTMPV's automaticly
+Generates BFDI YTMPV's automatically
